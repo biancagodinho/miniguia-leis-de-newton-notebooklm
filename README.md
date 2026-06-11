@@ -9,8 +9,8 @@ O objetivo deste estudo é usar a ferramenta para organizar o conhecimento, ente
 - A inércia e as bicicletas (Por que as bicicletas se mantêm em equilíbrio?): https://www.granjeandotalentos.com.br/por-que-as-bicicletas-se-mantem-em-equilibrio/
 - As Leis de Newton: os princípios da mecânica clássica: https://cursoenemgratuito.com.br/leis-de-newton-fisica-enem/
 
-## PROMPTS UTILIZADO
-** Exemplifique situações do cotidiano com aplicação da Primeira Lei de Newton. Responda seguindo a seguinte estrutura: "Resumo da lei: uma breve descrição da lei. Exemplo no cotidiano: exemplo 1, exemplo 2..." ** 
+## PROMPTS UTILIZADOS
+**Exemplifique situações do cotidiano com aplicação da Primeira Lei de Newton. Responda seguindo a seguinte estrutura: "Resumo da lei: uma breve descrição da lei. Exemplo no cotidiano: exemplo 1, exemplo 2..."** 
 
 ```
 Resumo da lei: A Primeira Lei de Newton, também conhecida como Princípio da Inércia, afirma que um corpo em repouso permanece em repouso e um corpo em movimento retilíneo uniforme tende a manter sua velocidade constante, a menos que uma força externa resultante atue sobre ele. Em essência, a inércia é a tendência natural da matéria de resistir a qualquer mudança em seu estado inicial de movimento ou repouso.
@@ -25,7 +25,7 @@ Objetos lançados no espaço: No vácuo do espaço, onde não há resistência d
 Carrinho de supermercado: Um carrinho parado só sairá do lugar se alguém aplicar uma força (empurrão); quanto mais pesado ele estiver, maior será sua inércia e mais difícil será tirá-lo do repouso.
 
 ```
-** Explique a Segunda Lei de Newton relacionando a fórmula da lei com um exemplo do cotidiano. Mostre como as grandezas envolvidas (força, massa e aceleração) se relacionam e explique como a alteração de uma delas influencia o resultado. **
+**Explique a Segunda Lei de Newton relacionando a fórmula da lei com um exemplo do cotidiano. Mostre como as grandezas envolvidas (força, massa e aceleração) se relacionam e explique como a alteração de uma delas influencia o resultado.**
 ```
 A Segunda Lei de Newton, também conhecida como o Princípio Fundamental da Dinâmica, afirma que a força resultante aplicada sobre um corpo é diretamente proporcional à aceleração que ele adquire e inversamente proporcional à sua massa
 . Em termos simples, essa lei explica como o movimento de um objeto muda quando uma força é exercida sobre ele.
@@ -51,4 +51,5 @@ Cenário B (Carrinho Cheio): Quando o carrinho está carregado de mantimentos, s
 Essa mesma lógica explica por que um caminhão carregado demora muito mais para ganhar velocidade do que um carro leve, ou por que um jogador de futebol precisa de mais força para chutar uma bola pesada de boliche do que uma bola de futebol para atingir a mesma distância.
 
 ```
-
+## Material Adicional
+[Glossário](https://github.com/biancagodinho/miniguia-leis-de-newton-notebooklm/blob/main/glossario.md)
